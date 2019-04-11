@@ -1,0 +1,38 @@
+{
+  "name": "Digital Poin",
+  "short_name": "Digital Poin",
+  "start_url": "https://www.digitalpoin.com",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#006175",
+  "description": "Panduan belajar cara membuat blog, jasa pembuatan website blog serta berbagi tips trik website blog khusus pemula dipandu sampai bisa gratis domain",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s48/logo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s72/logo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s96/logo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s144/logo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s168/logo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s192/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-6Oy7dNoy_yk/XBnNCnLQ5rI/AAAAAAAAABY/tmVXrnmapeIrz2W6u5RG2Xp1CfFPQKv4ACLcBGAs/s1512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
